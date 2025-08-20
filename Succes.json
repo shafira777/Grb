@@ -1,4 +1,3 @@
-
 [
   {
     "id": "6d95fal7c7e40bea",
@@ -9,9 +8,9 @@
   },
   {
     "id": "a52fa3c05395a73d",
-    "username": "dpmos",
+    "username": "dpmods",
     "password": "dpmods",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2025-08-21",
     "allowOffline": true
   },
   {
