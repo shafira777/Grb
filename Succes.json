@@ -1,4 +1,4 @@
-[
+⁸[
   {
     "id": "6d95fal7c7e40bea",
     "username": "dpmods",
@@ -11,6 +11,13 @@
     "username": "bibit",
     "password": "12345",
     "expiresAt": "2029-08-29",
+    "allowOffline": true
+  },
+  {
+    "id": "a52fa3c05395a73d",
+    "username": "gatot",
+    "password": "12345",
+    "expiresAt": "2025-08-21",
     "allowOffline": true
   },
   {
