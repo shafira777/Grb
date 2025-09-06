@@ -20,6 +20,8 @@
     "expiresAt": "2027-11-30",
     "allowOffline": false
   }
+ ]
+ [
   {
     "id": "a52fa3c05395a73d",
     "username": "abcde",
@@ -34,4 +36,4 @@
     "expiresAt": "2027-11-30",
     "allowOffline": false
   }
-]
+  ]
